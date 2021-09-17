@@ -5,7 +5,7 @@ This project aimed to fulfill the accessibility standards of a Marketing Website
 
 ## Usage 
 By reviewing the source code it clear to see `<alt>` feature was needed in all img and link commands. 
- ```md
+ 
  ![alt text](marketing-company/screenshot.png)
 
  ## Credits
